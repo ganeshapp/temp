@@ -3,7 +3,7 @@
 
 # temp
 
-Testing how this whole thing works. There is one [Link](link.md)
+Testing how this whole thing works. Test. There is one [Link](link.md)
 
 $$
 M = \left( \begin{array}{ccc}
