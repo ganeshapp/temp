@@ -1,5 +1,4 @@
 
-{% include mathjax.html %}
 
 # temp
 
